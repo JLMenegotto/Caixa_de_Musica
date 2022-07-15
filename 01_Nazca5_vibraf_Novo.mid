@@ -1,0 +1,2569 @@
+0  1  480
+
+1:1:0   0 SetTempo 60bpm (1000000)
+
+1:1:0   0 PatchChange Ch: 1 Vibraphone
+
+1:1:0   0 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+1:1:0   0 NoteOn Ch: 1 C5 Vel:70 Len: 480
+
+1:2:0   480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+1:2:0   480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+1:2:0   480 NoteOn Ch: 1 F3 Vel:70 Len: 960
+
+1:2:0   480 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+1:3:0   960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+1:3:0   960 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+1:4:0   1440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+1:4:0   1440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+1:4:0   1440 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+1:4:0   1440 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+2:1:0   1920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+2:1:0   1920 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+2:2:0   2400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+2:2:0   2400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+2:2:0   2400 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+2:2:0   2400 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+2:3:0   2880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+2:3:0   2880 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+2:4:0   3360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+2:4:0   3360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+2:4:0   3360 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+2:4:0   3360 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+3:1:0   3840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+3:1:0   3840 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+3:2:0   4320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+3:2:0   4320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+3:2:0   4320 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+3:2:0   4320 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+3:3:0   4800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+3:3:0   4800 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+3:4:0   5280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+3:4:0   5280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+3:4:0   5280 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+3:4:0   5280 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+4:1:0   5760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+4:1:0   5760 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+4:2:0   6240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+4:2:0   6240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+4:2:0   6240 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+4:2:0   6240 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+4:3:0   6720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+4:3:0   6720 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+4:4:0   7200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+4:4:0   7200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+4:4:0   7200 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+4:4:0   7200 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+5:1:0   7680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+5:1:0   7680 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+5:2:0   8160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+5:2:0   8160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+5:2:0   8160 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+5:2:0   8160 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+5:3:0   8640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+5:3:0   8640 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+5:4:0   9120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+5:4:0   9120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+5:4:0   9120 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+5:4:0   9120 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+6:1:0   9600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+6:1:0   9600 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+6:2:0   10080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+6:2:0   10080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+6:2:0   10080 NoteOn Ch: 1 G3 Vel:70 Len: 960
+
+6:2:0   10080 NoteOn Ch: 1 C4 Vel:70 Len: 1920
+
+6:4:0   11040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+6:4:0   11040 NoteOn Ch: 1 G3 Vel:70 Len: 960
+
+7:2:0   12000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+7:2:0   12000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+7:2:0   12000 NoteOn Ch: 1 F3 Vel:70 Len: 960
+
+7:2:0   12000 NoteOn Ch: 1 A4 Vel:70 Len: 1920
+
+7:4:0   12960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+7:4:0   12960 NoteOn Ch: 1 F3 Vel:70 Len: 960
+
+8:2:0   13920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+8:2:0   13920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+8:2:0   13920 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+8:2:0   13920 NoteOn Ch: 1 A4 Vel:70 Len: 1920
+
+8:4:0   14880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+8:4:0   14880 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+9:2:0   15840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+9:2:0   15840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+9:2:0   15840 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+9:2:0   15840 NoteOn Ch: 1 G4 Vel:70 Len: 1920
+
+9:4:0   16800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+9:4:0   16800 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+10:2:0   17760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+10:2:0   17760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+10:2:0   17760 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+10:2:0   17760 NoteOn Ch: 1 G4 Vel:70 Len: 1920
+
+10:4:0   18720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+10:4:0   18720 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+11:2:0   19680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+11:2:0   19680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+11:2:0   19680 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+11:2:0   19680 NoteOn Ch: 1 F4 Vel:70 Len: 1920
+
+12:2:0   21600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+12:2:0   21600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+12:2:0   21600 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+12:2:0   21600 NoteOn Ch: 1 F4 Vel:70 Len: 1920
+
+13:2:0   23520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+13:2:0   23520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+13:2:0   23520 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+13:2:0   23520 NoteOn Ch: 1 E4 Vel:70 Len: 1920
+
+14:2:0   25440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+14:2:0   25440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+14:2:0   25440 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+14:2:0   25440 NoteOn Ch: 1 D4 Vel:70 Len: 1920
+
+15:2:0   27360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+15:2:0   27360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+15:2:0   27360 NoteOn Ch: 1 F3 Vel:70 Len: 1920
+
+15:2:0   27360 NoteOn Ch: 1 D4 Vel:70 Len: 1920
+
+16:2:0   29280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+16:2:0   29280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+16:2:0   29280 NoteOn Ch: 1 F3 Vel:70 Len: 1920
+
+16:2:0   29280 NoteOn Ch: 1 C4 Vel:70 Len: 1920
+
+17:2:0   31200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+17:2:0   31200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+17:2:0   31200 NoteOn Ch: 1 E3 Vel:70 Len: 1920
+
+17:2:0   31200 NoteOn Ch: 1 C4 Vel:70 Len: 1920
+
+18:2:0   33120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+18:2:0   33120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+18:2:0   33120 NoteOn Ch: 1 D3 Vel:70 Len: 1920
+
+18:2:0   33120 NoteOn Ch: 1 C4 Vel:70 Len: 1920
+
+19:2:0   35040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+19:2:0   35040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+19:2:0   35040 NoteOn Ch: 1 D3 Vel:70 Len: 1920
+
+19:2:0   35040 NoteOn Ch: 1 C4 Vel:70 Len: 1920
+
+20:2:0   36960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+20:2:0   36960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+20:2:0   36960 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+20:2:0   36960 NoteOn Ch: 1 A4 Vel:70 Len: 1920
+
+21:2:0   38880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+21:2:0   38880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+21:2:0   38880 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+21:2:0   38880 NoteOn Ch: 1 A4 Vel:70 Len: 1920
+
+22:2:0   40800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+22:2:0   40800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+22:2:0   40800 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+22:2:0   40800 NoteOn Ch: 1 G4 Vel:70 Len: 1920
+
+23:2:0   42720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+23:2:0   42720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+23:2:0   42720 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+23:2:0   42720 NoteOn Ch: 1 G4 Vel:70 Len: 1920
+
+24:2:0   44640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+24:2:0   44640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+24:2:0   44640 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+24:2:0   44640 NoteOn Ch: 1 G4 Vel:70 Len: 1920
+
+25:2:0   46560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+25:2:0   46560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+25:2:0   46560 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+25:2:0   46560 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+25:3:0   47040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+25:3:0   47040 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+25:4:0   47520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+25:4:0   47520 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+26:1:0   48000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+26:1:0   48000 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+26:2:0   48480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+26:2:0   48480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+26:2:0   48480 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+26:2:0   48480 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+26:3:0   48960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+26:3:0   48960 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+26:4:0   49440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+26:4:0   49440 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+27:1:0   49920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+27:1:0   49920 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+27:2:0   50400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+27:2:0   50400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+27:2:0   50400 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+27:2:0   50400 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+27:3:0   50880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+27:3:0   50880 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+27:4:0   51360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+27:4:0   51360 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+28:1:0   51840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+28:1:0   51840 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+28:2:0   52320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+28:2:0   52320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+28:2:0   52320 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+28:2:0   52320 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+28:3:0   52800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+28:3:0   52800 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+28:4:0   53280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+28:4:0   53280 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+29:1:0   53760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+29:1:0   53760 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+29:2:0   54240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+29:2:0   54240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+29:2:0   54240 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+29:2:0   54240 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+29:3:0   54720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+29:3:0   54720 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+29:4:0   55200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+29:4:0   55200 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+30:1:0   55680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+30:1:0   55680 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+30:2:0   56160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+30:2:0   56160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+30:2:0   56160 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+30:2:0   56160 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+30:3:0   56640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+30:3:0   56640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+30:3:0   56640 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+30:3:0   56640 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+30:4:0   57120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+30:4:0   57120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+30:4:0   57120 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+30:4:0   57120 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+31:1:0   57600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+31:1:0   57600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+31:1:0   57600 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+31:1:0   57600 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+31:2:0   58080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+31:2:0   58080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+31:2:0   58080 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+31:2:0   58080 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+31:3:0   58560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+31:3:0   58560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+31:3:0   58560 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+31:3:0   58560 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+31:4:0   59040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+31:4:0   59040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+31:4:0   59040 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+31:4:0   59040 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+32:1:0   59520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:1:0   59520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:1:0   59520 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+32:1:0   59520 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+32:2:0   60000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:2:0   60000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:2:0   60000 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+32:2:0   60000 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+32:3:0   60480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:3:0   60480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:3:0   60480 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+32:3:0   60480 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+32:4:0   60960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:4:0   60960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:4:0   60960 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+32:4:0   60960 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+32:4:120   61080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:4:120   61080 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+32:4:240   61200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:4:240   61200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:4:240   61200 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+32:4:240   61200 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+32:4:360   61320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+32:4:360   61320 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+33:1:0   61440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:1:0   61440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:1:0   61440 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+33:1:0   61440 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+33:1:120   61560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:1:120   61560 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+33:1:240   61680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:1:240   61680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:1:240   61680 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+33:1:240   61680 NoteOn Ch: 1 A4 Vel:70 Len: 240
+
+33:1:360   61800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:1:360   61800 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+33:2:0   61920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:2:0   61920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:2:0   61920 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+33:2:0   61920 NoteOn Ch: 1 A4 Vel:70 Len: 240
+
+33:2:120   62040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:2:120   62040 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+33:2:240   62160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:2:240   62160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:2:240   62160 NoteOn Ch: 1 A3 Vel:70 Len: 120
+
+33:2:240   62160 NoteOn Ch: 1 G4 Vel:70 Len: 240
+
+33:2:360   62280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:2:360   62280 NoteOn Ch: 1 A3 Vel:70 Len: 120
+
+33:3:0   62400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:3:0   62400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:3:0   62400 NoteOn Ch: 1 G3 Vel:70 Len: 120
+
+33:3:0   62400 NoteOn Ch: 1 G4 Vel:70 Len: 240
+
+33:3:120   62520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:3:120   62520 NoteOn Ch: 1 G3 Vel:70 Len: 120
+
+33:3:240   62640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:3:240   62640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:3:240   62640 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+33:3:240   62640 NoteOn Ch: 1 F4 Vel:70 Len: 240
+
+33:3:360   62760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:3:360   62760 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+33:4:0   62880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:4:0   62880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:4:0   62880 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+33:4:0   62880 NoteOn Ch: 1 F4 Vel:70 Len: 240
+
+33:4:120   63000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:4:120   63000 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+33:4:240   63120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:4:240   63120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:4:240   63120 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+33:4:240   63120 NoteOn Ch: 1 E4 Vel:70 Len: 240
+
+33:4:360   63240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+33:4:360   63240 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+34:1:0   63360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:1:0   63360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:1:0   63360 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+34:1:0   63360 NoteOn Ch: 1 D4 Vel:70 Len: 240
+
+34:1:240   63600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:1:240   63600 NoteOn Ch: 1 D4 Vel:70 Len: 240
+
+34:2:0   63840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:2:0   63840 NoteOn Ch: 1 D4 Vel:70 Len: 240
+
+34:2:240   64080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:2:240   64080 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+34:3:0   64320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:3:0   64320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:3:0   64320 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+34:3:0   64320 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+34:3:240   64560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:3:240   64560 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+34:4:0   64800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:4:0   64800 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+34:4:240   65040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+34:4:240   65040 NoteOn Ch: 1 A4 Vel:70 Len: 240
+
+35:1:0   65280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:1:0   65280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:1:0   65280 NoteOn Ch: 1 G3 Vel:70 Len: 960
+
+35:1:0   65280 NoteOn Ch: 1 A4 Vel:70 Len: 240
+
+35:1:240   65520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:1:240   65520 NoteOn Ch: 1 G4 Vel:70 Len: 240
+
+35:2:0   65760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:2:0   65760 NoteOn Ch: 1 G4 Vel:70 Len: 240
+
+35:2:240   66000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:2:240   66000 NoteOn Ch: 1 F4 Vel:70 Len: 240
+
+35:3:0   66240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:3:0   66240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:3:0   66240 NoteOn Ch: 1 G3 Vel:70 Len: 960
+
+35:3:0   66240 NoteOn Ch: 1 F4 Vel:70 Len: 240
+
+35:3:240   66480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:3:240   66480 NoteOn Ch: 1 E4 Vel:70 Len: 240
+
+35:4:0   66720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:4:0   66720 NoteOn Ch: 1 E4 Vel:70 Len: 240
+
+35:4:240   66960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+35:4:240   66960 NoteOn Ch: 1 D4 Vel:70 Len: 240
+
+36:1:0   67200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+36:1:0   67200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+36:1:0   67200 NoteOn Ch: 1 F3 Vel:70 Len: 960
+
+36:1:0   67200 NoteOn Ch: 1 D4 Vel:70 Len: 240
+
+36:1:240   67440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+36:1:240   67440 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+36:2:0   67680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+36:2:0   67680 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+36:2:240   67920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+36:2:240   67920 NoteOn Ch: 1 G4 Vel:70 Len: 1920
+
+36:3:0   68160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+36:3:0   68160 NoteOn Ch: 1 F3 Vel:70 Len: 960
+
+37:1:0   69120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+37:1:0   69120 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+37:2:240   69840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+37:2:240   69840 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+37:3:0   70080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+37:3:0   70080 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+37:3:240   70320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+37:3:240   70320 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+37:4:240   70800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+37:4:240   70800 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+38:1:0   71040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+38:1:0   71040 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+38:1:240   71280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+38:1:240   71280 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+38:2:240   71760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+38:2:240   71760 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+38:3:0   72000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+38:3:0   72000 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+38:3:240   72240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+38:3:240   72240 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+38:4:240   72720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+38:4:240   72720 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+39:1:0   72960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+39:1:0   72960 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+39:1:240   73200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+39:1:240   73200 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+39:2:240   73680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+39:2:240   73680 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+39:3:0   73920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+39:3:0   73920 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+39:3:240   74160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+39:3:240   74160 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+39:4:240   74640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+39:4:240   74640 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+40:1:0   74880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+40:1:0   74880 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+40:1:240   75120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+40:1:240   75120 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+40:2:240   75600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+40:2:240   75600 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+40:3:0   75840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+40:3:0   75840 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+40:3:240   76080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+40:3:240   76080 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+40:4:240   76560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+40:4:240   76560 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+41:1:0   76800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+41:1:0   76800 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+41:1:240   77040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+41:1:240   77040 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+41:2:240   77520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+41:2:240   77520 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+41:3:0   77760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+41:3:0   77760 NoteOn Ch: 1 G3 Vel:70 Len: 960
+
+41:3:240   78000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+41:3:240   78000 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+41:4:240   78480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+41:4:240   78480 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+42:1:0   78720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+42:1:0   78720 NoteOn Ch: 1 G3 Vel:70 Len: 960
+
+42:1:240   78960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+42:1:240   78960 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+42:2:240   79440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+42:2:240   79440 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+42:3:0   79680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+42:3:0   79680 NoteOn Ch: 1 F3 Vel:70 Len: 960
+
+42:3:240   79920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+42:3:240   79920 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+42:4:240   80400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+42:4:240   80400 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+43:1:0   80640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+43:1:0   80640 NoteOn Ch: 1 F3 Vel:70 Len: 960
+
+43:1:240   80880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+43:1:240   80880 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+43:2:240   81360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+43:2:240   81360 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+43:3:0   81600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+43:3:0   81600 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+43:3:240   81840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+43:3:240   81840 NoteOn Ch: 1 E4 Vel:70 Len: 240
+
+43:4:0   82080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+43:4:0   82080 NoteOn Ch: 1 F4 Vel:70 Len: 120
+
+43:4:120   82200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+43:4:120   82200 NoteOn Ch: 1 F4 Vel:70 Len: 120
+
+43:4:240   82320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+43:4:240   82320 NoteOn Ch: 1 E4 Vel:70 Len: 120
+
+43:4:360   82440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+43:4:360   82440 NoteOn Ch: 1 E4 Vel:70 Len: 120
+
+44:1:0   82560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:1:0   82560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:1:0   82560 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+44:1:0   82560 NoteOn Ch: 1 D4 Vel:70 Len: 120
+
+44:1:120   82680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:1:120   82680 NoteOn Ch: 1 D4 Vel:70 Len: 120
+
+44:1:240   82800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:1:240   82800 NoteOn Ch: 1 C4 Vel:70 Len: 120
+
+44:1:360   82920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:1:360   82920 NoteOn Ch: 1 C4 Vel:70 Len: 120
+
+44:2:0   83040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:2:0   83040 NoteOn Ch: 1 C4 Vel:70 Len: 120
+
+44:2:120   83160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:2:120   83160 NoteOn Ch: 1 C4 Vel:70 Len: 120
+
+44:2:240   83280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:2:240   83280 NoteOn Ch: 1 A4 Vel:70 Len: 120
+
+44:2:360   83400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:2:360   83400 NoteOn Ch: 1 A4 Vel:70 Len: 120
+
+44:3:0   83520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:3:0   83520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:3:0   83520 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+44:3:0   83520 NoteOn Ch: 1 G4 Vel:70 Len: 120
+
+44:3:120   83640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:3:120   83640 NoteOn Ch: 1 G4 Vel:70 Len: 120
+
+44:3:240   83760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:3:240   83760 NoteOn Ch: 1 G4 Vel:70 Len: 120
+
+44:3:360   83880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:3:360   83880 NoteOn Ch: 1 F4 Vel:70 Len: 60
+
+44:3:420   83940 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:3:420   83940 NoteOn Ch: 1 F4 Vel:70 Len: 60
+
+44:4:0   84000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:4:0   84000 NoteOn Ch: 1 E4 Vel:70 Len: 60
+
+44:4:60   84060 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:4:60   84060 NoteOn Ch: 1 D4 Vel:70 Len: 60
+
+44:4:120   84120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:4:120   84120 NoteOn Ch: 1 D4 Vel:70 Len: 60
+
+44:4:180   84180 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:4:180   84180 NoteOn Ch: 1 C4 Vel:70 Len: 60
+
+44:4:240   84240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:4:240   84240 NoteOn Ch: 1 C4 Vel:70 Len: 60
+
+44:4:300   84300 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:4:300   84300 NoteOn Ch: 1 C4 Vel:70 Len: 60
+
+44:4:360   84360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:4:360   84360 NoteOn Ch: 1 A4 Vel:70 Len: 60
+
+44:4:420   84420 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+44:4:420   84420 NoteOn Ch: 1 A4 Vel:70 Len: 60
+
+45:1:0   84480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:1:0   84480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:1:0   84480 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+45:1:0   84480 NoteOn Ch: 1 G4 Vel:70 Len: 60
+
+45:1:60   84540 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:1:60   84540 NoteOn Ch: 1 G4 Vel:70 Len: 60
+
+45:1:120   84600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:1:120   84600 NoteOn Ch: 1 F4 Vel:70 Len: 60
+
+45:1:180   84660 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:1:180   84660 NoteOn Ch: 1 F4 Vel:70 Len: 60
+
+45:1:240   84720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:1:240   84720 NoteOn Ch: 1 E4 Vel:70 Len: 60
+
+45:1:300   84780 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:1:300   84780 NoteOn Ch: 1 E4 Vel:70 Len: 60
+
+45:1:360   84840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:1:360   84840 NoteOn Ch: 1 F4 Vel:70 Len: 60
+
+45:1:420   84900 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:1:420   84900 NoteOn Ch: 1 F4 Vel:70 Len: 60
+
+45:2:0   84960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:2:0   84960 NoteOn Ch: 1 E4 Vel:70 Len: 60
+
+45:2:60   85020 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:2:60   85020 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+45:3:0   85440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:3:0   85440 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+45:3:60   85500 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:3:60   85500 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+45:4:60   85980 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+45:4:60   85980 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+46:1:0   86400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+46:1:0   86400 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+46:1:60   86460 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+46:1:60   86460 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+46:2:60   86940 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+46:2:60   86940 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+46:3:0   87360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+46:3:0   87360 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+46:3:60   87420 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+46:3:60   87420 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+46:4:60   87900 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+46:4:60   87900 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+47:1:0   88320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+47:1:0   88320 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+47:1:60   88380 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+47:1:60   88380 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+47:2:60   88860 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+47:2:60   88860 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+47:3:0   89280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+47:3:0   89280 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+47:3:60   89340 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+47:3:60   89340 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+47:4:60   89820 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+47:4:60   89820 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+48:1:0   90240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+48:1:0   90240 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+48:1:60   90300 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+48:1:60   90300 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+48:2:60   90780 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+48:2:60   90780 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+48:3:0   91200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+48:3:0   91200 NoteOn Ch: 1 F3 Vel:70 Len: 1920
+
+48:3:60   91260 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+48:3:60   91260 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+48:4:60   91740 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+48:4:60   91740 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+49:1:60   92220 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+49:1:60   92220 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+49:2:60   92700 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+49:2:60   92700 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+49:3:0   93120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+49:3:0   93120 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+49:3:60   93180 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+49:3:60   93180 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+49:4:0   93600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+49:4:0   93600 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+49:4:60   93660 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+49:4:60   93660 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+50:1:0   94080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+50:1:0   94080 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+50:1:60   94140 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+50:1:60   94140 NoteOn Ch: 1 G4 Vel:70 Len: 1920
+
+50:2:0   94560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+50:2:0   94560 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+50:3:0   95040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+50:3:0   95040 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+50:4:0   95520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+50:4:0   95520 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+51:1:0   96000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+51:1:0   96000 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+51:1:60   96060 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+51:1:60   96060 NoteOn Ch: 1 G4 Vel:70 Len: 1920
+
+51:2:0   96480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+51:2:0   96480 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+51:3:0   96960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+51:3:0   96960 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+51:4:0   97440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+51:4:0   97440 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+52:1:0   97920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+52:1:0   97920 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+52:1:60   97980 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+52:1:60   97980 NoteOn Ch: 1 A4 Vel:70 Len: 1920
+
+52:2:0   98400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+52:2:0   98400 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+52:3:0   98880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+52:3:0   98880 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+52:4:0   99360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+52:4:0   99360 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+53:1:0   99840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+53:1:0   99840 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+53:1:60   99900 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+53:1:60   99900 NoteOn Ch: 1 A4 Vel:70 Len: 1920
+
+53:2:0   100320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+53:2:0   100320 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+53:3:0   100800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+53:3:0   100800 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+53:4:0   101280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+53:4:0   101280 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+54:1:0   101760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+54:1:0   101760 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+54:1:60   101820 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+54:1:60   101820 NoteOn Ch: 1 C4 Vel:70 Len: 1920
+
+54:2:0   102240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+54:2:0   102240 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+54:3:0   102720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+54:3:0   102720 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+54:4:0   103200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+54:4:0   103200 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+55:1:0   103680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:1:0   103680 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+55:1:60   103740 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:1:60   103740 NoteOn Ch: 1 C4 Vel:70 Len: 1920
+
+55:2:0   104160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:2:0   104160 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+55:3:0   104640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:3:0   104640 NoteOn Ch: 1 E3 Vel:70 Len: 240
+
+55:3:240   104880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:3:240   104880 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+55:3:360   105000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:3:360   105000 NoteOn Ch: 1 G3 Vel:70 Len: 60
+
+55:3:420   105060 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:3:420   105060 NoteOn Ch: 1 F3 Vel:70 Len: 60
+
+55:4:0   105120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:4:0   105120 NoteOn Ch: 1 F3 Vel:70 Len: 60
+
+55:4:60   105180 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:4:60   105180 NoteOn Ch: 1 E3 Vel:70 Len: 60
+
+55:4:120   105240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:4:120   105240 NoteOn Ch: 1 E3 Vel:70 Len: 60
+
+55:4:180   105300 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:4:180   105300 NoteOn Ch: 1 D3 Vel:70 Len: 60
+
+55:4:240   105360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:4:240   105360 NoteOn Ch: 1 D3 Vel:70 Len: 60
+
+55:4:300   105420 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:4:300   105420 NoteOn Ch: 1 C3 Vel:70 Len: 60
+
+55:4:360   105480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:4:360   105480 NoteOn Ch: 1 C3 Vel:70 Len: 60
+
+55:4:420   105540 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+55:4:420   105540 NoteOn Ch: 1 C3 Vel:70 Len: 60
+
+56:1:0   105600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:1:0   105600 NoteOn Ch: 1 C3 Vel:70 Len: 60
+
+56:1:60   105660 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:1:60   105660 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:1:60   105660 NoteOn Ch: 1 A3 Vel:70 Len: 60
+
+56:1:60   105660 NoteOn Ch: 1 C4 Vel:70 Len: 1920
+
+56:1:120   105720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:1:120   105720 NoteOn Ch: 1 A3 Vel:70 Len: 60
+
+56:1:180   105780 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:1:180   105780 NoteOn Ch: 1 G3 Vel:70 Len: 60
+
+56:1:240   105840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:1:240   105840 NoteOn Ch: 1 G3 Vel:70 Len: 60
+
+56:1:300   105900 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:1:300   105900 NoteOn Ch: 1 F3 Vel:70 Len: 60
+
+56:1:360   105960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:1:360   105960 NoteOn Ch: 1 F3 Vel:70 Len: 60
+
+56:1:420   106020 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:1:420   106020 NoteOn Ch: 1 E3 Vel:70 Len: 60
+
+56:2:0   106080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:2:0   106080 NoteOn Ch: 1 D3 Vel:70 Len: 60
+
+56:2:60   106140 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:2:60   106140 NoteOn Ch: 1 D3 Vel:70 Len: 60
+
+56:2:120   106200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:2:120   106200 NoteOn Ch: 1 C3 Vel:70 Len: 60
+
+56:2:180   106260 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:2:180   106260 NoteOn Ch: 1 C3 Vel:70 Len: 60
+
+56:2:240   106320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:2:240   106320 NoteOn Ch: 1 C3 Vel:70 Len: 60
+
+56:2:300   106380 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:2:300   106380 NoteOn Ch: 1 A3 Vel:70 Len: 60
+
+56:2:360   106440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:2:360   106440 NoteOn Ch: 1 A3 Vel:70 Len: 60
+
+56:2:420   106500 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:2:420   106500 NoteOn Ch: 1 G3 Vel:70 Len: 60
+
+56:3:0   106560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:3:0   106560 NoteOn Ch: 1 G3 Vel:70 Len: 60
+
+56:3:60   106620 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:3:60   106620 NoteOn Ch: 1 F3 Vel:70 Len: 60
+
+56:3:120   106680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:3:120   106680 NoteOn Ch: 1 F3 Vel:70 Len: 60
+
+56:3:180   106740 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:3:180   106740 NoteOn Ch: 1 E3 Vel:70 Len: 60
+
+56:3:240   106800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:3:240   106800 NoteOn Ch: 1 E3 Vel:70 Len: 60
+
+56:3:300   106860 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:3:300   106860 NoteOn Ch: 1 F3 Vel:70 Len: 60
+
+56:3:360   106920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:3:360   106920 NoteOn Ch: 1 F3 Vel:70 Len: 60
+
+56:3:420   106980 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:3:420   106980 NoteOn Ch: 1 E3 Vel:70 Len: 60
+
+56:4:0   107040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+56:4:0   107040 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+57:1:0   107520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+57:1:0   107520 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+57:1:60   107580 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+57:1:60   107580 NoteOn Ch: 1 C4 Vel:70 Len: 1920
+
+57:2:0   108000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+57:2:0   108000 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+57:3:0   108480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+57:3:0   108480 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+57:4:0   108960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+57:4:0   108960 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+58:1:0   109440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+58:1:0   109440 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+58:1:60   109500 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+58:1:60   109500 NoteOn Ch: 1 D4 Vel:70 Len: 1920
+
+58:2:0   109920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+58:2:0   109920 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+58:3:0   110400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+58:3:0   110400 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+58:4:0   110880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+58:4:0   110880 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+59:1:0   111360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+59:1:0   111360 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+59:1:60   111420 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+59:1:60   111420 NoteOn Ch: 1 D4 Vel:70 Len: 1920
+
+59:2:0   111840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+59:2:0   111840 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+59:3:0   112320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+59:3:0   112320 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+59:4:0   112800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+59:4:0   112800 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+60:1:0   113280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+60:1:0   113280 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+60:1:60   113340 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+60:1:60   113340 NoteOn Ch: 1 E4 Vel:70 Len: 1920
+
+60:2:0   113760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+60:2:0   113760 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+60:3:0   114240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+60:3:0   114240 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+60:4:0   114720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+60:4:0   114720 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+61:1:0   115200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+61:1:0   115200 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+61:1:60   115260 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+61:1:60   115260 NoteOn Ch: 1 E4 Vel:70 Len: 1920
+
+61:2:0   115680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+61:2:0   115680 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+61:3:0   116160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+61:3:0   116160 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+61:4:0   116640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+61:4:0   116640 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+62:1:0   117120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+62:1:0   117120 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+62:1:60   117180 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+62:1:60   117180 NoteOn Ch: 1 F4 Vel:70 Len: 1920
+
+62:2:0   117600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+62:2:0   117600 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+62:3:0   118080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+62:3:0   118080 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+62:4:0   118560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+62:4:0   118560 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+63:1:0   119040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+63:1:0   119040 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+63:1:60   119100 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+63:1:60   119100 NoteOn Ch: 1 F4 Vel:70 Len: 1920
+
+63:2:0   119520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+63:2:0   119520 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+63:3:0   120000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+63:3:0   120000 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+63:4:0   120480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+63:4:0   120480 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+64:1:0   120960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+64:1:0   120960 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+64:1:60   121020 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+64:1:60   121020 NoteOn Ch: 1 F4 Vel:70 Len: 1920
+
+64:2:0   121440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+64:2:0   121440 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+64:3:0   121920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+64:3:0   121920 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+64:4:0   122400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+64:4:0   122400 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+65:1:0   122880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+65:1:0   122880 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+65:1:60   122940 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+65:1:60   122940 NoteOn Ch: 1 A4 Vel:70 Len: 60
+
+65:1:120   123000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+65:1:120   123000 NoteOn Ch: 1 E4 Vel:70 Len: 960
+
+65:2:0   123360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+65:2:0   123360 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+65:2:120   123480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+65:2:120   123480 NoteOn Ch: 1 E3 Vel:70 Len: 1920
+
+65:3:120   123960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+65:3:120   123960 NoteOn Ch: 1 E4 Vel:70 Len: 960
+
+66:1:120   124920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+66:1:120   124920 NoteOn Ch: 1 E4 Vel:70 Len: 960
+
+66:2:120   125400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+66:2:120   125400 NoteOn Ch: 1 F3 Vel:70 Len: 1920
+
+66:3:120   125880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+66:3:120   125880 NoteOn Ch: 1 F4 Vel:70 Len: 960
+
+67:1:120   126840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+67:1:120   126840 NoteOn Ch: 1 F4 Vel:70 Len: 960
+
+67:2:120   127320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+67:2:120   127320 NoteOn Ch: 1 F3 Vel:70 Len: 1920
+
+67:3:120   127800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+67:3:120   127800 NoteOn Ch: 1 G4 Vel:70 Len: 960
+
+68:1:120   128760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+68:1:120   128760 NoteOn Ch: 1 G4 Vel:70 Len: 960
+
+68:2:120   129240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+68:2:120   129240 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+68:3:120   129720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+68:3:120   129720 NoteOn Ch: 1 A4 Vel:70 Len: 960
+
+69:1:120   130680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+69:1:120   130680 NoteOn Ch: 1 A4 Vel:70 Len: 960
+
+69:2:120   131160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+69:2:120   131160 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+69:3:120   131640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+69:3:120   131640 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+70:1:120   132600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+70:1:120   132600 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+70:2:120   133080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+70:2:120   133080 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+70:3:120   133560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+70:3:120   133560 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+71:1:120   134520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+71:1:120   134520 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+71:2:120   135000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+71:2:120   135000 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+71:3:120   135480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+71:3:120   135480 NoteOn Ch: 1 D4 Vel:70 Len: 960
+
+72:1:120   136440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+72:1:120   136440 NoteOn Ch: 1 D4 Vel:70 Len: 960
+
+72:2:120   136920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+72:2:120   136920 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+72:3:120   137400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+72:3:120   137400 NoteOn Ch: 1 D4 Vel:70 Len: 960
+
+73:1:120   138360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+73:1:120   138360 NoteOn Ch: 1 E4 Vel:70 Len: 960
+
+73:2:120   138840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+73:2:120   138840 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+73:3:120   139320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+73:3:120   139320 NoteOn Ch: 1 E4 Vel:70 Len: 960
+
+74:1:120   140280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+74:1:120   140280 NoteOn Ch: 1 F4 Vel:70 Len: 960
+
+74:2:120   140760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+74:2:120   140760 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+74:3:120   141240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+74:3:120   141240 NoteOn Ch: 1 F4 Vel:70 Len: 960
+
+75:1:120   142200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+75:1:120   142200 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+75:2:120   142680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+75:2:120   142680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+75:2:120   142680 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+75:2:120   142680 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+75:3:120   143160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+75:3:120   143160 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+75:4:120   143640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+75:4:120   143640 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+76:1:120   144120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+76:1:120   144120 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+76:2:120   144600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+76:2:120   144600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+76:2:120   144600 NoteOn Ch: 1 D3 Vel:70 Len: 1920
+
+76:2:120   144600 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+76:3:120   145080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+76:3:120   145080 NoteOn Ch: 1 F4 Vel:70 Len: 240
+
+76:3:360   145320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+76:3:360   145320 NoteOn Ch: 1 F4 Vel:70 Len: 240
+
+76:4:120   145560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+76:4:120   145560 NoteOn Ch: 1 G4 Vel:70 Len: 240
+
+76:4:360   145800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+76:4:360   145800 NoteOn Ch: 1 G4 Vel:70 Len: 240
+
+77:1:120   146040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+77:1:120   146040 NoteOn Ch: 1 G4 Vel:70 Len: 240
+
+77:1:360   146280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+77:1:360   146280 NoteOn Ch: 1 A4 Vel:70 Len: 240
+
+77:2:120   146520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+77:2:120   146520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+77:2:120   146520 NoteOn Ch: 1 D3 Vel:70 Len: 1920
+
+77:2:120   146520 NoteOn Ch: 1 A4 Vel:70 Len: 240
+
+77:2:360   146760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+77:2:360   146760 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+77:3:120   147000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+77:3:120   147000 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+77:4:120   147480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+77:4:120   147480 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+78:1:120   147960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+78:1:120   147960 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+78:2:120   148440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+78:2:120   148440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+78:2:120   148440 NoteOn Ch: 1 E3 Vel:70 Len: 1920
+
+78:2:120   148440 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+78:3:120   148920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+78:3:120   148920 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+78:4:120   149400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+78:4:120   149400 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+79:1:120   149880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+79:1:120   149880 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+79:2:120   150360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+79:2:120   150360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+79:2:120   150360 NoteOn Ch: 1 E3 Vel:70 Len: 1920
+
+79:2:120   150360 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+79:3:120   150840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+79:3:120   150840 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+79:4:120   151320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+79:4:120   151320 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+80:1:120   151800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+80:1:120   151800 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+80:2:120   152280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+80:2:120   152280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+80:2:120   152280 NoteOn Ch: 1 F3 Vel:70 Len: 1920
+
+80:2:120   152280 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+80:3:120   152760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+80:3:120   152760 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+80:4:120   153240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+80:4:120   153240 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+81:1:120   153720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+81:1:120   153720 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+81:2:120   154200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+81:2:120   154200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+81:2:120   154200 NoteOn Ch: 1 F3 Vel:70 Len: 1920
+
+81:2:120   154200 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+81:3:120   154680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+81:3:120   154680 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+81:4:120   155160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+81:4:120   155160 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+82:1:120   155640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+82:1:120   155640 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+82:2:120   156120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+82:2:120   156120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+82:2:120   156120 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+82:2:120   156120 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+82:3:120   156600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+82:3:120   156600 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+82:4:120   157080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+82:4:120   157080 NoteOn Ch: 1 A4 Vel:70 Len: 240
+
+82:4:360   157320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+82:4:360   157320 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+83:1:120   157560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+83:1:120   157560 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+83:1:360   157800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+83:1:360   157800 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+83:2:120   158040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+83:2:120   158040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+83:2:120   158040 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+83:2:120   158040 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+83:2:360   158280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+83:2:360   158280 NoteOn Ch: 1 D4 Vel:70 Len: 240
+
+83:3:120   158520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+83:3:120   158520 NoteOn Ch: 1 D4 Vel:70 Len: 240
+
+83:3:360   158760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+83:3:360   158760 NoteOn Ch: 1 E4 Vel:70 Len: 240
+
+83:4:120   159000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+83:4:120   159000 NoteOn Ch: 1 E4 Vel:70 Len: 240
+
+83:4:360   159240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+83:4:360   159240 NoteOn Ch: 1 F4 Vel:70 Len: 240
+
+84:1:120   159480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+84:1:120   159480 NoteOn Ch: 1 F4 Vel:70 Len: 240
+
+84:1:360   159720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+84:1:360   159720 NoteOn Ch: 1 G4 Vel:70 Len: 240
+
+84:2:120   159960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+84:2:120   159960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+84:2:120   159960 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+84:2:120   159960 NoteOn Ch: 1 G4 Vel:70 Len: 240
+
+84:2:360   160200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+84:2:360   160200 NoteOn Ch: 1 A4 Vel:70 Len: 240
+
+84:3:120   160440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+84:3:120   160440 NoteOn Ch: 1 A4 Vel:70 Len: 240
+
+84:3:360   160680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+84:3:360   160680 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+84:4:120   160920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+84:4:120   160920 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+84:4:360   161160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+84:4:360   161160 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+85:1:120   161400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+85:1:120   161400 NoteOn Ch: 1 C4 Vel:70 Len: 240
+
+85:1:360   161640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+85:1:360   161640 NoteOn Ch: 1 D4 Vel:70 Len: 240
+
+85:2:120   161880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+85:2:120   161880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+85:2:120   161880 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+85:2:120   161880 NoteOn Ch: 1 E4 Vel:70 Len: 960
+
+85:4:120   162840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+85:4:120   162840 NoteOn Ch: 1 E4 Vel:70 Len: 960
+
+86:2:120   163800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+86:2:120   163800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+86:2:120   163800 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+86:2:120   163800 NoteOn Ch: 1 F4 Vel:70 Len: 960
+
+86:4:120   164760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+86:4:120   164760 NoteOn Ch: 1 F4 Vel:70 Len: 960
+
+87:2:120   165720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+87:2:120   165720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+87:2:120   165720 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+87:2:120   165720 NoteOn Ch: 1 G4 Vel:70 Len: 960
+
+87:4:120   166680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+87:4:120   166680 NoteOn Ch: 1 G4 Vel:70 Len: 960
+
+88:2:120   167640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+88:2:120   167640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+88:2:120   167640 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+88:2:120   167640 NoteOn Ch: 1 A4 Vel:70 Len: 960
+
+88:4:120   168600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+88:4:120   168600 NoteOn Ch: 1 A4 Vel:70 Len: 960
+
+89:2:120   169560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+89:2:120   169560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+89:2:120   169560 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+89:2:120   169560 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+89:4:120   170520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+89:4:120   170520 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+90:2:120   171480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+90:2:120   171480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+90:2:120   171480 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+90:2:120   171480 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+90:4:120   172440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+90:4:120   172440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+90:4:120   172440 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+90:4:120   172440 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+90:4:240   172560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+90:4:240   172560 NoteOn Ch: 1 G3 Vel:70 Len: 120
+
+90:4:360   172680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+90:4:360   172680 NoteOn Ch: 1 G3 Vel:70 Len: 120
+
+91:1:0   172800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:1:0   172800 NoteOn Ch: 1 A3 Vel:70 Len: 120
+
+91:1:120   172920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:1:120   172920 NoteOn Ch: 1 A3 Vel:70 Len: 120
+
+91:1:240   173040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:1:240   173040 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+91:1:360   173160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:1:360   173160 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+91:2:0   173280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:2:0   173280 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+91:2:120   173400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:2:120   173400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:2:120   173400 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+91:2:120   173400 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+91:2:240   173520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:2:240   173520 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+91:2:360   173640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:2:360   173640 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+91:3:0   173760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:3:0   173760 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+91:3:120   173880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:3:120   173880 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+91:3:240   174000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:3:240   174000 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+91:3:360   174120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:3:360   174120 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+91:4:0   174240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:4:0   174240 NoteOn Ch: 1 G3 Vel:70 Len: 120
+
+91:4:120   174360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:4:120   174360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:4:120   174360 NoteOn Ch: 1 G3 Vel:70 Len: 120
+
+91:4:120   174360 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+91:4:240   174480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:4:240   174480 NoteOn Ch: 1 A3 Vel:70 Len: 120
+
+91:4:360   174600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+91:4:360   174600 NoteOn Ch: 1 A3 Vel:70 Len: 120
+
+92:1:0   174720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:1:0   174720 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+92:1:120   174840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:1:120   174840 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+92:1:240   174960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:1:240   174960 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+92:1:360   175080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:1:360   175080 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+92:2:0   175200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:2:0   175200 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+92:2:120   175320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:2:120   175320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:2:120   175320 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+92:2:120   175320 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+92:2:240   175440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:2:240   175440 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+92:2:360   175560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:2:360   175560 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+92:3:0   175680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:3:0   175680 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+92:3:120   175800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:3:120   175800 NoteOn Ch: 1 G3 Vel:70 Len: 120
+
+92:3:240   175920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:3:240   175920 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+92:4:120   176280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:4:120   176280 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+92:4:240   176400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+92:4:240   176400 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+93:1:240   176880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+93:1:240   176880 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+93:2:120   177240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+93:2:120   177240 NoteOn Ch: 1 D4 Vel:70 Len: 960
+
+93:2:240   177360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+93:2:240   177360 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+93:3:240   177840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+93:3:240   177840 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+93:4:120   178200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+93:4:120   178200 NoteOn Ch: 1 D4 Vel:70 Len: 960
+
+93:4:240   178320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+93:4:240   178320 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+94:1:240   178800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+94:1:240   178800 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+94:2:120   179160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+94:2:120   179160 NoteOn Ch: 1 E4 Vel:70 Len: 960
+
+94:2:240   179280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+94:2:240   179280 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+94:3:240   179760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+94:3:240   179760 NoteOn Ch: 1 E3 Vel:70 Len: 480
+
+94:4:120   180120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+94:4:120   180120 NoteOn Ch: 1 E4 Vel:70 Len: 960
+
+94:4:240   180240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+94:4:240   180240 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+95:1:240   180720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+95:1:240   180720 NoteOn Ch: 1 F3 Vel:70 Len: 480
+
+95:2:120   181080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+95:2:120   181080 NoteOn Ch: 1 F4 Vel:70 Len: 960
+
+95:2:240   181200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+95:2:240   181200 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+95:3:240   181680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+95:3:240   181680 NoteOn Ch: 1 G3 Vel:70 Len: 480
+
+95:4:120   182040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+95:4:120   182040 NoteOn Ch: 1 F4 Vel:70 Len: 960
+
+95:4:240   182160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+95:4:240   182160 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+96:1:240   182640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+96:1:240   182640 NoteOn Ch: 1 A3 Vel:70 Len: 480
+
+96:2:120   183000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+96:2:120   183000 NoteOn Ch: 1 G4 Vel:70 Len: 960
+
+96:2:240   183120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+96:2:240   183120 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+96:3:240   183600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+96:3:240   183600 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+96:4:120   183960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+96:4:120   183960 NoteOn Ch: 1 A4 Vel:70 Len: 960
+
+96:4:240   184080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+96:4:240   184080 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+97:1:240   184560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+97:1:240   184560 NoteOn Ch: 1 C3 Vel:70 Len: 480
+
+97:2:120   184920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+97:2:120   184920 NoteOn Ch: 1 A4 Vel:70 Len: 960
+
+97:2:240   185040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+97:2:240   185040 NoteOn Ch: 1 D3 Vel:70 Len: 480
+
+97:3:240   185520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+97:3:240   185520 NoteOn Ch: 1 F3 Vel:70 Len: 1920
+
+97:4:120   185880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+97:4:120   185880 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+98:2:120   186840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+98:2:120   186840 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+98:3:240   187440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+98:3:240   187440 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+98:4:120   187800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+98:4:120   187800 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+99:2:120   188760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+99:2:120   188760 NoteOn Ch: 1 C4 Vel:70 Len: 960
+
+99:3:240   189360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+99:3:240   189360 NoteOn Ch: 1 G3 Vel:70 Len: 1920
+
+99:4:120   189720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+99:4:120   189720 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+100:1:120   190200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+100:1:120   190200 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+100:2:120   190680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+100:2:120   190680 NoteOn Ch: 1 A4 Vel:70 Len: 480
+
+100:3:120   191160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+100:3:120   191160 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+100:3:240   191280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+100:3:240   191280 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+100:4:120   191640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+100:4:120   191640 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+101:1:120   192120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+101:1:120   192120 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+101:2:120   192600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+101:2:120   192600 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+101:3:120   193080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+101:3:120   193080 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+101:3:240   193200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+101:3:240   193200 NoteOn Ch: 1 A3 Vel:70 Len: 1920
+
+101:4:120   193560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+101:4:120   193560 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+102:1:120   194040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+102:1:120   194040 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+102:2:120   194520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+102:2:120   194520 NoteOn Ch: 1 E4 Vel:70 Len: 480
+
+102:3:120   195000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+102:3:120   195000 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+102:3:240   195120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+102:3:240   195120 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+102:4:120   195480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+102:4:120   195480 NoteOn Ch: 1 F4 Vel:70 Len: 480
+
+103:1:120   195960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+103:1:120   195960 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+103:2:120   196440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+103:2:120   196440 NoteOn Ch: 1 G4 Vel:70 Len: 480
+
+103:3:120   196920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+103:3:120   196920 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+103:3:240   197040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+103:3:240   197040 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+103:4:120   197400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+103:4:120   197400 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+104:1:120   197880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+104:1:120   197880 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+104:2:120   198360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+104:2:120   198360 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+104:3:120   198840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+104:3:120   198840 NoteOn Ch: 1 D4 Vel:70 Len: 480
+
+104:3:240   198960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+104:3:240   198960 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+104:4:120   199320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+104:4:120   199320 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+105:2:120   200280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+105:2:120   200280 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+105:3:240   200880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+105:3:240   200880 NoteOn Ch: 1 C3 Vel:70 Len: 1920
+
+105:4:120   201240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+105:4:120   201240 NoteOn Ch: 1 C4 Vel:70 Len: 480
+
+106:3:240   202800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+106:3:240   202800 NoteOn Ch: 1 D3 Vel:70 Len: 1920
+
+107:3:240   204720 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+107:3:240   204720 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+108:1:240   205680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+108:1:240   205680 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+108:3:240   206640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+108:3:240   206640 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+109:1:240   207600 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+109:1:240   207600 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+109:3:240   208560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+109:3:240   208560 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+110:1:240   209520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+110:1:240   209520 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+110:3:240   210480 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+110:3:240   210480 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+111:1:240   211440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+111:1:240   211440 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+111:3:240   212400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+111:3:240   212400 NoteOn Ch: 1 E3 Vel:70 Len: 960
+
+112:1:240   213360 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+112:1:240   213360 NoteOn Ch: 1 F3 Vel:70 Len: 960
+
+112:3:240   214320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+112:3:240   214320 NoteOn Ch: 1 F3 Vel:70 Len: 960
+
+113:1:240   215280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+113:1:240   215280 NoteOn Ch: 1 G3 Vel:70 Len: 960
+
+113:3:240   216240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+113:3:240   216240 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+114:1:240   217200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+114:1:240   217200 NoteOn Ch: 1 A3 Vel:70 Len: 960
+
+114:3:240   218160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+114:3:240   218160 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+115:1:240   219120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+115:1:240   219120 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+115:3:240   220080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+115:3:240   220080 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+116:1:240   221040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+116:1:240   221040 NoteOn Ch: 1 C3 Vel:70 Len: 960
+
+116:3:240   222000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+116:3:240   222000 NoteOn Ch: 1 D3 Vel:70 Len: 960
+
+117:1:240   222960 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:1:240   222960 NoteOn Ch: 1 A3 Vel:70 Len: 120
+
+117:1:360   223080 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:1:360   223080 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+117:2:0   223200 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:2:0   223200 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+117:2:120   223320 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:2:120   223320 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+117:2:240   223440 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:2:240   223440 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+117:2:360   223560 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:2:360   223560 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+117:3:0   223680 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:3:0   223680 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+117:3:120   223800 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:3:120   223800 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+117:3:240   223920 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:3:240   223920 NoteOn Ch: 1 E3 Vel:70 Len: 120
+
+117:3:360   224040 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:3:360   224040 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+117:4:0   224160 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:4:0   224160 NoteOn Ch: 1 F3 Vel:70 Len: 120
+
+117:4:120   224280 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:4:120   224280 NoteOn Ch: 1 G3 Vel:70 Len: 120
+
+117:4:240   224400 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:4:240   224400 NoteOn Ch: 1 G3 Vel:70 Len: 120
+
+117:4:360   224520 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+117:4:360   224520 NoteOn Ch: 1 A3 Vel:70 Len: 120
+
+118:1:0   224640 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+118:1:0   224640 NoteOn Ch: 1 A3 Vel:70 Len: 120
+
+118:1:120   224760 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+118:1:120   224760 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+118:1:240   224880 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+118:1:240   224880 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+118:1:360   225000 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+118:1:360   225000 NoteOn Ch: 1 C3 Vel:70 Len: 120
+
+118:2:0   225120 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+118:2:0   225120 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+118:2:120   225240 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+118:2:120   225240 NoteOn Ch: 1 D3 Vel:70 Len: 120
+
+118:3:240   225840 PitchWheelChange Ch: 1 Pitch 8191 (-1)
+
+118:3:240   225840 EndTrack
